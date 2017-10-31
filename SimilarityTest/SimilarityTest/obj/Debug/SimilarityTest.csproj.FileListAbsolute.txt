@@ -1,0 +1,6 @@
+c:\users\alfredo v\documents\visual studio 2017\Projects\SimilarityTest\SimilarityTest\bin\Debug\SimilarityTest.exe.config
+c:\users\alfredo v\documents\visual studio 2017\Projects\SimilarityTest\SimilarityTest\bin\Debug\SimilarityTest.exe
+c:\users\alfredo v\documents\visual studio 2017\Projects\SimilarityTest\SimilarityTest\bin\Debug\SimilarityTest.pdb
+c:\users\alfredo v\documents\visual studio 2017\Projects\SimilarityTest\SimilarityTest\obj\Debug\SimilarityTest.csprojResolveAssemblyReference.cache
+c:\users\alfredo v\documents\visual studio 2017\Projects\SimilarityTest\SimilarityTest\obj\Debug\SimilarityTest.exe
+c:\users\alfredo v\documents\visual studio 2017\Projects\SimilarityTest\SimilarityTest\obj\Debug\SimilarityTest.pdb
